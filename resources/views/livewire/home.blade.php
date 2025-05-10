@@ -27,11 +27,20 @@
 
         <!-- Search bar -->
         <div class="my-10 w-full flex flex-col md:flex-row items-center justify-between gap-3">
-            <div class="flex items-center gap-2">
-                <div class="flex-1 flex items-center w-full">
-                    <input type="text" placeholder="Search projects..."
-                        class="w-full rounded bg-[#23272e] border border-[#23272e] px-4 py-1.5 text-white focus:outline-none" />
+            <div class="flex flex-1 items-center gap-2">
+                <div class="relative w-full sm:max-w-sm" bis_skin_checked="1">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round" class="text-white/50 absolute top-2.5 left-2.5 h-4 w-4">
+                        <circle cx="11" cy="11" r="8"></circle>
+                        <path d="m21 21-4.3-4.3"></path>
+                    </svg>
+                    <input type="search" data-slot="input"
+                        class="border-input bg-transparent placeholder:text-white/50 border border-white/20 rounded-lg px-3 py-2 text-sm shadow-xs focus-visible:outline-hidden w-full pr-4 pl-8"
+                        placeholder="Search projects..." aria-label="Search projects"
+                        data-dashlane-rid="81e98826bce9cb18" data-dashlane-classification="query">
                 </div>
+
                 <button
                     class="flex items-center gap-1 bg-[#23272e] border border-[#23272e] px-4 py-2 rounded text-white font-medium text-sm mt-2 md:mt-0">
                     <svg class="w-4 h-4 mr-1" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
