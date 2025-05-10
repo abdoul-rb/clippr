@@ -3,8 +3,6 @@
 @section('title', __('Accueil'))
 
 @section('content')
-    @include('partials.nav')
-
     <div class="relative isolate bg-[#100D08] min-h-screen w-full flex flex-col items-center py-12 px-4">
         <div class="absolute inset-0 -z-10 overflow-hidden">
             <svg class="stroke-gray-700 absolute inset-0 h-full w-full [mask-image:radial-gradient(100%_100%_at_top_right,white,transparent)]"
@@ -55,15 +53,17 @@
             </div>
 
             <!-- Cards -->
-            <div class="mt-12 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+            <div class="mt-12 grid gap-x-4 gap-y-6 sm:grid-cols-2 lg:grid-cols-3">
                 <x-cards.card title="Planetaria" url="https://planetaria.tech"
                     description="Creating technology to empower civilians to explore space on their own terms." />
 
                 <x-cards.card title="Planetaria" url="https://planetaria.tech"
                     description="Creating technology to empower civilians to explore space on their own terms." />
 
-                <x-cards.card title="Planetaria" url="https://planetaria.tech"
-                    description="Creating technology to empower civilians to explore space on their own terms." />
+                @for ($i = 0; $i < 6; $i++)
+                    <x-cards.card title="Planetaria" url="https://planetaria.tech"
+                        description="Creating technology to empower civilians to explore space on their own terms." />
+                @endfor
             </div>
 
             <div class="w-full flex gap-4 mt-4 justify-end">

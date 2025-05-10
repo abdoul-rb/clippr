@@ -1,5 +1,5 @@
 <nav
-    class=" bg-[#100D08] bg-background/95 supports-[backdrop-filter]:bg-background/60 sticky top-0 z-50 border-b border-dashed border-white/10 backdrop-blur">
+    class="sticky top-0 z-40 border-b border-dashed border-white/10 backdrop-blur supports-[backdrop-filter]:bg-dark/10 shadow-xs">
     <div class="max-w-7xl mx-auto px-6 py-4 lg:px-0 flex items-center justify-between">
         <div class="flex items-center gap-6">
             <a href="#" class="flex items-center gap-2 font-bold text-lg text-white">
