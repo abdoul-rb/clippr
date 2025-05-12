@@ -49,7 +49,7 @@ class ImportBookmarks extends Command
                 'title' => "Create Laravel Package",
                 'description' => "Créer un package Laravel",
                 'url' => 'https://www.laravelpackage.com/',
-                'tags' => ['learn', 'tutorials', 'laravel'],
+                'tags' => ['learning', 'tutorials', 'laravel'],
             ],
 
         ];

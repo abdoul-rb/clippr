@@ -17,7 +17,7 @@
         </svg>
     </div>
 
-    <div class="max-w-7xl mx-auto px-6 py-4 lg:px-0">
+    <div class="max-w-7xl mx-auto px-6 py-4 lg:px-0 w-full">
         <h1 class="text-3xl md:text-4xl font-bold text-white mb-3">
             {{ __('Rédecouvre tes favoris autrement') }}
         </h1>
