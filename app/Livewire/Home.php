@@ -4,14 +4,45 @@ namespace App\Livewire;
 
 use Livewire\Component;
 use App\Services\UrlEnricher;
+use App\Models\Bookmark;
+use App\Models\Tag;
+
 class Home extends Component
 {
+    public $search = '';
+
+    public $selectedTags = [];
+
+    public function toggleTag($tagId)
+    {
+        if (in_array($tagId, $this->selectedTags)) {
+            $this->selectedTags = array_diff($this->selectedTags, [$tagId]);
+        } else {
+            $this->selectedTags[] = $tagId;
+        }
+    }
+
     public function render(UrlEnricher $enricher)
     {
-        $data = $enricher->enrich('https://tailwindcss.com/');
+        $data = $enricher->enrich('https://preline.co/');
 
-        // dd($data);
+        $query = Bookmark::query();
 
-        return view('livewire.home')->extends('layouts.app');
+        if ($this->search) {
+            $query->where('title', 'like', '%' . $this->search . '%')
+                ->orWhere('url', 'like', '%' . $this->search . '%');
+        }
+
+        if ($this->selectedTags) {
+            $query->whereHas('tags', function ($query) {
+                $query->whereIn('tags.id', $this->selectedTags);
+            });
+        }
+
+        $bookmarks = $query->paginate(10);
+
+        $tags = Tag::take(6)->get();
+
+        return view('livewire.home', compact('bookmarks', 'tags'))->extends('layouts.app');
     }
 }

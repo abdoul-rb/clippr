@@ -44,7 +44,7 @@ class Bookmark extends Model
 
                 $bookmark->title = $bookmark->title ?? $data['title'];
                 $bookmark->description = $bookmark->description ?? $data['description'];
-                $bookmark->metadata['image'] = $data['image'];
+                $bookmark->metadata = array_merge($bookmark->metadata ?? [], ['image' => $data['image']]);
             }
         });
     }
@@ -54,6 +54,6 @@ class Bookmark extends Model
      */
     public function tags(): BelongsToMany
     {
-        return $this->belongsToMany(Tag::class);
+        return $this->belongsToMany(Tag::class)->withTimestamps();
     }
 } 

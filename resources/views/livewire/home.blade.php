@@ -28,17 +28,16 @@
         <!-- Search bar -->
         <div class="my-10 w-full flex flex-col md:flex-row items-center justify-between gap-3">
             <div class="flex flex-1 items-center gap-2">
-                <div class="relative w-full sm:max-w-sm" bis_skin_checked="1">
+                <div class="relative w-full sm:max-w-sm">
                     <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
                         fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
                         stroke-linejoin="round" class="text-white/50 absolute top-2.5 left-2.5 h-4 w-4">
                         <circle cx="11" cy="11" r="8"></circle>
                         <path d="m21 21-4.3-4.3"></path>
                     </svg>
-                    <input type="search" data-slot="input"
-                        class="border-input bg-transparent placeholder:text-white/50 border border-white/20 rounded-lg px-3 py-2 text-sm shadow-xs focus-visible:outline-hidden w-full pr-4 pl-8"
-                        placeholder="Search projects..." aria-label="Search projects"
-                        data-dashlane-rid="81e98826bce9cb18" data-dashlane-classification="query">
+                    <input type="search" wire:model.live.debounce.300ms="search"
+                        class="bg-transparent text-white placeholder:text-white/50 border border-white/20 rounded-lg px-3 py-2 text-sm shadow-xs focus-visible:outline-hidden w-full pr-4 pl-8"
+                        placeholder="Search projects..." aria-label="Search projects">
                 </div>
 
                 <button
@@ -51,32 +50,21 @@
             </div>
 
             <div class="flex items-center gap-2">
-                <button type="button"
-                    class="inline-flex items-center gap-x-0.5 rounded-md bg-[#212427] border border-[#212427] px-4 py-2 text-xs font-medium text-white">
-                    Badge
-                </button>
+                @foreach ($tags as $tag)
+                    <button type="button" wire:click="toggleTag({{ $tag->id }})"
+                        class="inline-flex items-center gap-x-0.5 rounded-md bg-[#212427] border border-[#212427] px-4 py-2 text-xs font-medium text-white cursor-pointer">
+                        {{ $tag->name }}
+                    </button>
+                @endforeach
             </div>
         </div>
 
         <!-- Cards -->
         <div class="mt-12 grid gap-x-4 gap-y-6 sm:grid-cols-2 lg:grid-cols-3">
-            <x-cards.card title="Planetaria" url="https://planetaria.tech"
-                description="Creating technology to empower civilians to explore space on their own terms." />
-
-            <x-cards.card title="Planetaria" url="https://planetaria.tech"
-                description="Creating technology to empower civilians to explore space on their own terms." />
-
-            @for ($i = 0; $i < 6; $i++)
-                <x-cards.card title="Planetaria" url="https://planetaria.tech"
-                    description="Creating technology to empower civilians to explore space on their own terms." />
-            @endfor
-        </div>
-
-        <div class="w-full flex gap-4 mt-4 justify-end">
-            <button class="bg-[#23272e] border border-[#23272e] text-white px-4 py-2 rounded text-xs">Sponsor
-                spot</button>
-            <button class="bg-[#23272e] border border-[#23272e] text-white px-4 py-2 rounded text-xs">Sponsor
-                spot</button>
+            @foreach ($bookmarks as $bookmark)
+                <x-cards.card title="{{ $bookmark->title }}" url="{{ $bookmark->url }}"
+                    description="{{ $bookmark->description }}" />
+            @endforeach
         </div>
     </div>
 </div>

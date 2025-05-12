@@ -18,14 +18,14 @@
             <a href="{{ $url }}">
                 <span class="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span>
                 <span class="relative z-10">
-                    {{ $title }}
+                    {!! $title !!}
                 </span>
             </a>
         </h2>
     </div>
 
     <p class="relative z-10 mt-2 text-sm text-zinc-400">
-        {{ $description }}
+        {!! str()->words($description, 10) !!}
     </p>
 
     <p class="relative z-10 mt-6 flex text-sm font-medium transition group-hover:text-teal-500 text-zinc-200">
