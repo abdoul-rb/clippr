@@ -16,6 +16,7 @@ return new class extends Migration
             $table->string('title')->nullable();
             $table->string('url')->unique();
             $table->text('description')->nullable();
+            $table->unsignedInteger('relevance')->default(0);
             $table->json('metadata')->nullable();
             $table->boolean('active')->default(true);
             $table->timestamps();

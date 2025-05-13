@@ -8,7 +8,7 @@ use Illuminate\Console\Command;
 
 class ImportBookmarks extends Command
 {
-    protected $signature = 'import:bookmarks';
+    protected $signature = 'import:bookmarks {file=bookmarks.json}';
 
     protected $description = 'Importe les bookmarks par défaut dans la base de données';
 
@@ -17,19 +17,29 @@ class ImportBookmarks extends Command
      */
     public function handle()
     {
+        $filename = $this->argument('file');
+        $path = "data/$filename";
+
+        $bookmarks = json_decode(file_get_contents(resource_path($path)), true);
+
+        dd($bookmarks);
+
         $bookmarks = [
             [
                 'title' => 'Preline UI',
+                'description' => "Free Tailwind CSS resources as building blocks for websites and web applications.",
                 'url' => 'https://preline.co/examples.html',
                 'tags' => ['tailwind', 'ui', 'components'],
             ],
             [
                 'title' => 'Cruip Devspace demo',
+                'description' => "Exemple de portfolio avec Tailwind CSS",
                 'url' => 'https://preview.cruip.com/devspace/',
                 'tags' => ['ui', 'portfolio'],
             ],
             [
                 'title' => 'Freebox OS',
+                'description' => "Interface de configuration de la Freebox",
                 'url' => 'http://mafreebox.freebox.fr/#Fbx.os.app.settings.app',
                 'tags' => ['tools', 'tricks'],
             ],

@@ -1,0 +1,1118 @@
+[
+    {
+        "title": "Mon portfolio",
+        "description": "Mon portfolio personnel.",
+        "url": "https://abdoulrahim.vercel.app/",
+        "relevance": 10,
+        "tags": [
+            "portfolio",
+            "freelance"
+        ]
+    },
+    {
+        "title": "Calculateur Impôt",
+        "description": "Application pour estimer l'impôt sur le revenu en France.",
+        "url": "https://calculateur-impot.vercel.app/",
+        "relevance": 9,
+        "tags": [
+            "tools",
+            "productivity",
+            "utilities"
+        ]
+    },
+    {
+        "title": "Freebox OS",
+        "description": "Interface de configuration de la Freebox",
+        "url": "http://mafreebox.freebox.fr/#Fbx.os.app.settings.app",
+        "relevance": 5,
+        "tags": [
+            "tools",
+            "tricks"
+        ]
+    },
+    {
+        "title": "Univers Emploi",
+        "description": "Plateforme dédiée à l'emploi et à la formation en Afrique francophone.",
+        "url": "https://univers-emploi.org/",
+        "relevance": 9,
+        "tags": [
+            "learning",
+            "project",
+            "portfolio"
+        ]
+    },
+    {
+        "title": "Tampon Digital",
+        "description": "Générateur de tampon d'entreprise en ligne.",
+        "url": "https://tampon-digital-eight.vercel.app/",
+        "relevance": 8,
+        "tags": [
+            "tools",
+            "utilities",
+            "productivity"
+        ]
+    },
+    {
+        "title": "FYC Hosting App",
+        "description": "Interface web pour gestion d'hébergement web (version S3).",
+        "url": "http://fyc-hosting-webapp.s3-website.eu-west-2.amazonaws.com/",
+        "relevance": 7,
+        "tags": [
+            "project",
+            "tools",
+            "utilities"
+        ]
+    },
+    {
+        "title": "WalyConnect",
+        "description": "Application pour mise en relation autour de l'emploi et de la formation.",
+        "url": "https://walyconnect.com/",
+        "relevance": 9,
+        "tags": [
+            "project",
+            "learning",
+            "portfolio"
+        ]
+    },
+    {
+        "title": "Doniin",
+        "description": "Plateforme de transport collaboratif de colis basée sur les voyages.",
+        "url": "https://doniin.com/",
+        "relevance": 9,
+        "tags": [
+            "project",
+            "business",
+            "freelance"
+        ]
+    },
+    {
+        "title": "AddictedToWeb",
+        "description": "Portfolio personnel de développeur web.",
+        "url": "https://addictedtoweb.fr/",
+        "relevance": 7,
+        "tags": [
+            "portfolio",
+            "project",
+            "freelance"
+        ]
+    },
+    {
+        "title": "Panaroma Sidibé",
+        "description": "Site personnel ou expérimental lié à Cheick Ahmed Sidibé.",
+        "url": "https://panaroma.cheickahmedsidibe.com/",
+        "relevance": 7,
+        "tags": [
+            "portfolio",
+            "project"
+        ]
+    },
+    {
+        "title": "SeLoger224",
+        "description": "Projet de plateforme immobilière pour la Guinée.",
+        "url": "https://seloger224.vercel.app/",
+        "relevance": 8,
+        "tags": [
+            "project",
+            "business"
+        ]
+    },
+    {
+        "title": "IA Learn",
+        "description": "Application d'apprentissage en ligne basée sur l'IA.",
+        "url": "https://ialearn.vercel.app/",
+        "relevance": 8,
+        "tags": [
+            "ai",
+            "learning",
+            "project"
+        ]
+    },
+    {
+        "title": "Manage GN",
+        "description": "Plateforme de gestion d'entreprise minimaliste.",
+        "url": "https://manage-gn.vercel.app/",
+        "relevance": 8,
+        "tags": [
+            "project",
+            "business",
+            "freelance"
+        ]
+    },
+    {
+        "title": "Launchoice",
+        "description": "Collection d'interfaces et outils UI modernes pour les développeurs.",
+        "url": "https://launchoice.com/",
+        "tags": [
+            "ui",
+            "design",
+            "tailwind"
+        ]
+    },
+    {
+        "title": "Hypercolor",
+        "description": "Dégradés de couleurs Tailwind CSS à copier-coller.",
+        "url": "https://hypercolor.dev/",
+        "tags": [
+            "tailwind",
+            "design",
+            "utilities"
+        ]
+    },
+    {
+        "title": "Preline UI",
+        "description": "Free Tailwind CSS resources as building blocks for websites and web applications.",
+        "url": "https://preline.co/examples.html",
+        "tags": [
+            "tailwind",
+            "ui",
+            "components"
+        ]
+    },
+    {
+        "title": "Cruip Devspace demo",
+        "description": "Exemple de portfolio avec Tailwind CSS",
+        "url": "https://preview.cruip.com/devspace/",
+        "tags": [
+            "ui",
+            "portfolio"
+        ]
+    },
+    {
+        "title": "Tailawesome",
+        "description": "Composants gratuits Tailwind CSS open source.",
+        "url": "https://www.tailawesome.com/",
+        "tags": [
+            "tailwind",
+            "components",
+            "ui"
+        ]
+    },
+    {
+        "title": "Float UI",
+        "description": "Composants Tailwind CSS élégants pour vos projets.",
+        "url": "https://floatui.com/",
+        "tags": [
+            "tailwind",
+            "ui",
+            "components"
+        ]
+    },
+    {
+        "title": "Flowbase",
+        "description": "Templates et ressources Webflow premium.",
+        "url": "https://www.flowbase.co/",
+        "tags": [
+            "ui",
+            "ux",
+            "design"
+        ]
+    },
+    {
+        "title": "Material Tailwind Blocks",
+        "description": "Blocs prédéfinis basés sur Material Tailwind.",
+        "url": "https://www.material-tailwind.com/blocks",
+        "tags": [
+            "tailwind",
+            "components",
+            "ui"
+        ]
+    },
+    {
+        "title": "Tailwind CSS Plus",
+        "description": "Plugins, thèmes et extensions pour Tailwind CSS.",
+        "url": "https://tailwindcss.com/plus",
+        "tags": [
+            "tailwind",
+            "tools",
+            "utilities"
+        ]
+    },
+    {
+        "title": "Flowbite",
+        "description": "Composants UI avec Tailwind CSS et JavaScript.",
+        "url": "https://flowbite.com/",
+        "tags": [
+            "tailwind",
+            "components",
+            "ui"
+        ]
+    },
+    {
+        "title": "Cruip Simple",
+        "description": "Templates HTML simples basés sur Tailwind.",
+        "url": "https://cruip.com/simple/",
+        "tags": [
+            "tailwind",
+            "ui",
+            "design"
+        ]
+    },
+    {
+        "title": "Tailgrids",
+        "description": "Bibliothèque de composants UI Tailwind CSS.",
+        "url": "https://tailgrids.com",
+        "tags": [
+            "tailwind",
+            "components",
+            "ui"
+        ]
+    },
+    {
+        "title": "Tailblocks",
+        "description": "Blocs prédéfinis pour Tailwind CSS.",
+        "url": "https://tailblocks.cc/",
+        "tags": [
+            "tailwind",
+            "components",
+            "ui"
+        ]
+    },
+    {
+        "title": "Heroicons",
+        "description": "Icônes SVG gratuites conçues pour les projets Tailwind CSS.",
+        "url": "https://heroicons.com/",
+        "tags": [
+            "ui",
+            "ux",
+            "design",
+            "tailwind"
+        ]
+    },
+    {
+        "title": "Feather Icons",
+        "description": "Collection d'icônes open source simples et élégantes.",
+        "url": "https://feathericons.com/",
+        "tags": [
+            "ui",
+            "design",
+            "ux"
+        ]
+    },
+    {
+        "title": "Remix Icon",
+        "description": "Bibliothèque d'icônes système au design moderne et personnalisable.",
+        "url": "https://remixicon.com/",
+        "tags": [
+            "ui",
+            "ux",
+            "design"
+        ]
+    },
+    {
+        "title": "Pqoqubbw Icons",
+        "description": "Icônes en SVG personnalisables pour le web moderne.",
+        "url": "https://icons.pqoqubbw.dev",
+        "tags": [
+            "ui",
+            "design",
+            "ux"
+        ]
+    },
+    {
+        "title": "Easing Wizard",
+        "description": "Outil pour visualiser et créer des courbes d'animation CSS personnalisées.",
+        "url": "https://easingwizard.com",
+        "tags": [
+            "ui",
+            "ux",
+            "tools"
+        ]
+    },
+    {
+        "title": "Embla Carousel",
+        "description": "Bibliothèque JavaScript légère pour carrousels personnalisables.",
+        "url": "https://www.embla-carousel.com/",
+        "tags": [
+            "ui",
+            "components",
+            "utilities"
+        ]
+    },
+    {
+        "title": "Dark Mode Design",
+        "description": "Collection d'inspirations pour interfaces en mode sombre.",
+        "url": "https://www.darkmodedesign.com/",
+        "tags": [
+            "ui",
+            "ux",
+            "design"
+        ]
+    },
+    {
+        "title": "Pagedone",
+        "description": "Documentation de composants Tailwind CSS UI prêts à l'emploi.",
+        "url": "https://pagedone.io/docs/",
+        "tags": [
+            "tailwind",
+            "components",
+            "ui"
+        ]
+    },
+    {
+        "title": "Material Tailwind",
+        "description": "Composants UI construits avec Tailwind CSS et Material Design.",
+        "url": "https://www.material-tailwind.com/",
+        "tags": [
+            "tailwind",
+            "components",
+            "ui"
+        ]
+    },
+    {
+        "title": "Penguin UI",
+        "description": "UI kit Tailwind CSS gratuit avec des composants modernes.",
+        "url": "https://www.penguinui.com/",
+        "tags": [
+            "tailwind",
+            "ui",
+            "components"
+        ]
+    },
+    {
+        "title": "DevDojo Pines",
+        "description": "Collection de composants Alpine.js et Tailwind CSS.",
+        "url": "https://devdojo.com/pines",
+        "tags": [
+            "tailwind",
+            "components",
+            "ui"
+        ]
+    },
+    {
+        "title": "DaisyUI",
+        "description": "Plugin Tailwind CSS qui ajoute des composants UI avec thèmes.",
+        "url": "https://daisyui.com/components/",
+        "tags": [
+            "tailwind",
+            "ui",
+            "components"
+        ]
+    },
+    {
+        "title": "ShadCN UI",
+        "description": "Composants réutilisables basés sur Radix UI et Tailwind CSS.",
+        "url": "https://ui.shadcn.com/",
+        "tags": [
+            "tailwind",
+            "components",
+            "ui"
+        ]
+    },
+    {
+        "title": "Naive UI",
+        "description": "Framework de composants Vue 3 avec design élégant.",
+        "url": "https://www.naiveui.com/en-US/dark",
+        "tags": [
+            "components",
+            "ui",
+            "design"
+        ]
+    },
+    {
+        "title": "Shuffle Dev",
+        "description": "Constructeur de templates avec Bootstrap, Tailwind, Bulma.",
+        "url": "https://shuffle.dev/components",
+        "tags": [
+            "tailwind",
+            "components",
+            "ui",
+            "tools"
+        ]
+    },
+    {
+        "title": "Clippy",
+        "description": "Générateur CSS de formes avec clip-path.",
+        "url": "https://bennettfeely.com/clippy/",
+        "tags": [
+            "ui",
+            "ux",
+            "tools"
+        ]
+    },
+    {
+        "title": "Favicon.io",
+        "description": "Générateur de favicons à partir de texte, images ou emojis.",
+        "url": "https://favicon.io/",
+        "tags": [
+            "tools",
+            "ui",
+            "utilities"
+        ]
+    },
+    {
+        "title": "Devicon",
+        "description": "Icônes des technologies de développement (HTML, CSS, JS, etc.).",
+        "url": "https://devicon.dev/",
+        "tags": [
+            "ui",
+            "ux",
+            "tools"
+        ]
+    },
+    {
+        "title": "Motion Zajno",
+        "description": "Inspiration en animation UI/UX pour produits digitaux.",
+        "url": "https://motion.zajno.com/",
+        "tags": [
+            "ui",
+            "ux",
+            "design"
+        ]
+    },
+    {
+        "title": "Mobbin",
+        "description": "Collection d'interfaces mobiles réelles pour l'inspiration UI/UX.",
+        "url": "https://mobbin.com/",
+        "tags": [
+            "ui",
+            "ux",
+            "design"
+        ]
+    },
+    {
+        "title": "SaaS Landing Page",
+        "description": "Exemples de pages d'accueil efficaces pour produits SaaS.",
+        "url": "https://saaslandingpage.com/",
+        "tags": [
+            "ui",
+            "ux",
+            "design",
+            "business"
+        ]
+    },
+    {
+        "title": "The App Fuel",
+        "description": "Collection de designs UI pour applications mobiles.",
+        "url": "https://www.theappfuel.com/",
+        "tags": [
+            "ui",
+            "ux",
+            "design"
+        ]
+    },
+    {
+        "title": "Muzli",
+        "description": "Inspirations UI/UX et ressources design à jour.",
+        "url": "https://muz.li/fr/",
+        "tags": [
+            "ui",
+            "ux",
+            "design"
+        ]
+    },
+    {
+        "title": "Icônes JS",
+        "description": "Projet open-source pour explorer des jeux d'icônes SVG modernes.",
+        "url": "https://icones.js.org/",
+        "tags": [
+            "ui",
+            "ux",
+            "design"
+        ]
+    },
+    {
+        "title": "Looka",
+        "description": "Création de logos et branding assistée par IA.",
+        "url": "https://looka.com/",
+        "tags": [
+            "design",
+            "ai",
+            "tools",
+            "freelance"
+        ]
+    },
+    {
+        "title": "CSS.gg",
+        "description": "Bibliothèque d'icônes CSS/SVG personnalisables.",
+        "url": "https://css.gg/icons",
+        "tags": [
+            "ui",
+            "ux",
+            "design"
+        ]
+    },
+    {
+        "title": "Nucleo App",
+        "description": "Gestionnaire d'icônes pour designers et développeurs.",
+        "url": "https://nucleoapp.com/",
+        "tags": [
+            "ui",
+            "ux",
+            "design"
+        ]
+    },
+    {
+        "title": "UI Colors",
+        "description": "Outil pour générer et explorer des palettes de couleurs UI.",
+        "url": "https://uicolors.app/",
+        "tags": [
+            "design",
+            "ui",
+            "tools"
+        ]
+    },
+    {
+        "title": "Color Hunt",
+        "description": "Galerie de palettes de couleurs pour les designers et développeurs.",
+        "url": "https://colorhunt.co/",
+        "tags": [
+            "ui",
+            "design"
+        ]
+    },
+    {
+        "title": "Haikei",
+        "description": "Générateurs d'arrière-plans SVG pour le web.",
+        "url": "https://haikei.app/generators/",
+        "tags": [
+            "ui",
+            "design",
+            "tools"
+        ]
+    },
+    {
+        "title": "Sheet Hacks",
+        "description": "Collection d'astuces et templates pour Google Sheets.",
+        "url": "https://sheethacks.com/",
+        "tags": [
+            "tools",
+            "productivity",
+            "learning"
+        ]
+    },
+    {
+        "title": "GitHub Framework Topics",
+        "description": "List of GitHub repositories organized by framework topics.",
+        "url": "https://github.com/topics/framework",
+        "tags": [
+            "learning",
+            "tutorials",
+            "docs"
+        ]
+    },
+    {
+        "title": "Pitch Deck Hunt",
+        "description": "Collection de pitch decks de startups pour s'inspirer.",
+        "url": "https://www.pitchdeckhunt.com/",
+        "tags": [
+            "business",
+            "learning",
+            "tools"
+        ]
+    },
+    {
+        "title": "Flashy by Mercury Series",
+        "description": "Package Laravel pour les notifications flash.",
+        "url": "https://github.com/mercuryseries/flashy",
+        "tags": [
+            "tools",
+            "devops",
+            "learning"
+        ]
+    },
+    {
+        "title": "Resend",
+        "description": "Service d'envoi d'emails transactionnels moderne pour les développeurs.",
+        "url": "https://resend.com/",
+        "tags": [
+            "tools",
+            "devops",
+            "productivity"
+        ]
+    },
+    {
+        "title": "Article Summary",
+        "description": "Générateur de résumé d'article propulsé par l'IA.",
+        "url": "https://article-summary.vercel.app/generate",
+        "tags": [
+            "ai",
+            "learning",
+            "tools"
+        ]
+    },
+    {
+        "title": "TypingClub",
+        "description": "Apprendre à taper plus vite au clavier avec des leçons interactives.",
+        "url": "https://www.typingclub.com/",
+        "tags": [
+            "learning",
+            "productivity"
+        ]
+    },
+    {
+        "title": "Academy by Brevo",
+        "description": "Formations gratuites sur l'email marketing, CRM et automation.",
+        "url": "https://academy.brevo.com/courses-fr",
+        "tags": [
+            "business",
+            "learning",
+            "freelance"
+        ]
+    },
+    {
+        "title": "Pluralsight Free Library",
+        "description": "Cours en ligne techniques gratuits sur le développement et l'IT.",
+        "url": "https://app.pluralsight.com/library/free",
+        "tags": [
+            "learning",
+            "tutorials",
+            "devops"
+        ]
+    },
+    {
+        "title": "TinyWow",
+        "description": "Outils gratuits pour éditer des fichiers (PDF, images, vidéos, etc.) en ligne.",
+        "url": "https://tinywow.com/",
+        "tags": [
+            "tools",
+            "utilities",
+            "productivity",
+            "learning"
+        ]
+    },
+    {
+        "title": "GitHub Topics: Framework",
+        "description": "Liste de projets GitHub taggés \"framework\", utiles pour étudier les structures logicielles.",
+        "url": "https://github.com/topics/framework",
+        "tags": [
+            "learning",
+            "tutorials",
+            "docs"
+        ]
+    },
+    {
+        "title": "Pitch Deck Hunt",
+        "description": "Base de données de pitch decks utilisés par des startups pour lever des fonds.",
+        "url": "https://www.pitchdeckhunt.com/",
+        "tags": [
+            "business",
+            "learning",
+            "freelance"
+        ]
+    },
+    {
+        "title": "Mercury Series - Flashy",
+        "description": "Package Laravel pour afficher des messages flash élégants.",
+        "url": "https://github.com/mercuryseries/flashy",
+        "tags": [
+            "devops",
+            "tools",
+            "debug"
+        ]
+    },
+    {
+        "title": "Resend",
+        "description": "Plateforme moderne pour l'envoi d'emails transactionnels, alternative à SendGrid.",
+        "url": "https://resend.com/",
+        "tags": [
+            "tools",
+            "devops",
+            "productivity"
+        ]
+    },
+    {
+        "title": "Article Summary",
+        "description": "Application qui utilise l'IA pour générer un résumé d'article.",
+        "url": "https://article-summary.vercel.app/generate",
+        "tags": [
+            "ai",
+            "learning",
+            "tools"
+        ]
+    },
+    {
+        "title": "Webflow Collections Overview",
+        "description": "Documentation sur la gestion des collections CMS dans Webflow.",
+        "url": "https://help.webflow.com/hc/en-us/articles/33961244391059-Collections-overview",
+        "tags": [
+            "docs",
+            "ux",
+            "learning"
+        ]
+    },
+    {
+        "title": "DevDocs",
+        "description": "Documentation rapide pour de nombreuses technologies de développement.",
+        "url": "https://devdocs.io/",
+        "tags": [
+            "docs",
+            "learning",
+            "productivity"
+        ]
+    },
+    {
+        "title": "JavaScript.info",
+        "description": "Un tutoriel moderne sur JavaScript depuis les bases jusqu'aux concepts avancés.",
+        "url": "https://javascript.info/",
+        "tags": [
+            "learning",
+            "tutorials"
+        ]
+    },
+    {
+        "title": "AOS - Animate on Scroll",
+        "description": "Librairie d'animations au scroll pour les interfaces web.",
+        "url": "https://michalsnik.github.io/aos/",
+        "tags": [
+            "ui",
+            "ux",
+            "components"
+        ]
+    },
+    {
+        "title": "Build UI",
+        "description": "Formation payante avec des vidéos avancées sur la création d'interfaces web.",
+        "url": "https://buildui.com/",
+        "tags": [
+            "ui",
+            "ux",
+            "learning"
+        ]
+    },
+    {
+        "title": "Laravel Package Boilerplate",
+        "description": "Ressources pour créer des packages Laravel professionnels.",
+        "url": "https://www.laravelpackage.com/",
+        "tags": [
+            "devops",
+            "learning",
+            "tools"
+        ]
+    },
+    {
+        "title": "Realtime with Laravel Reverb",
+        "description": "Tutoriel vidéo sur les canaux privés dans Laravel Reverb.",
+        "url": "https://codecourse.com/watch/realtime-with-laravel-reverb/defining-and-authorising-private-channels",
+        "tags": [
+            "learning",
+            "tutorials",
+            "devops"
+        ]
+    },
+    {
+        "title": "Goku Streaming",
+        "description": "Plateforme de streaming gratuite avec une large sélection de contenus.",
+        "url": "https://goku.sx/home",
+        "tags": [
+            "stream"
+        ]
+    },
+    {
+        "title": "Google Cloud Shell",
+        "description": "Accès à un terminal Linux dans le cloud Google avec des outils de dev préinstallés.",
+        "url": "https://shell.cloud.google.com/",
+        "tags": [
+            "hack",
+            "devops",
+            "tools"
+        ]
+    },
+    {
+        "title": "Kali Linux",
+        "description": "Distribution Linux pour le pentesting et la cybersécurité.",
+        "url": "https://www.kali.org/",
+        "tags": [
+            "hack",
+            "tools"
+        ]
+    },
+    {
+        "title": "Root Me",
+        "description": "Plateforme pour apprendre le hacking éthique via des challenges de cybersécurité.",
+        "url": "https://www.root-me.org/",
+        "tags": [
+            "hack",
+            "learning"
+        ]
+    },
+    {
+        "title": "Epieos",
+        "description": "Outils d'OSINT pour retrouver des informations publiques à partir d'un email ou numéro.",
+        "url": "https://epieos.com/",
+        "tags": [
+            "hack",
+            "tools"
+        ]
+    },
+    {
+        "title": "Hunter.io",
+        "description": "Recherche d'emails professionnels par nom de domaine.",
+        "url": "https://hunter.io/try/search/hunter.io",
+        "tags": [
+            "hack",
+            "freelance",
+            "tools"
+        ]
+    },
+    {
+        "title": "Blackfire.io",
+        "description": "Outil de profiling de performance pour PHP.",
+        "url": "https://www.blackfire.io/",
+        "tags": [
+            "monitoring",
+            "devops"
+        ]
+    },
+    {
+        "title": "New Relic",
+        "description": "Outil d'observabilité et de monitoring des applications.",
+        "url": "https://newrelic.com/fr",
+        "tags": [
+            "monitoring",
+            "logs",
+            "debug"
+        ]
+    },
+    {
+        "title": "k6",
+        "description": "Outil open source pour les tests de charge des applications.",
+        "url": "https://k6.io/",
+        "tags": [
+            "monitoring",
+            "devops",
+            "tools"
+        ]
+    },
+    {
+        "title": "SolidTime",
+        "description": "Outil de suivi du temps et de productivité.",
+        "url": "https://app.solidtime.io/",
+        "tags": [
+            "monitoring",
+            "productivity"
+        ]
+    },
+    {
+        "title": "Incogni",
+        "description": "Service de protection de la vie privée qui demande la suppression de vos données personnelles.",
+        "url": "https://incogni.com/",
+        "tags": [
+            "zen",
+            "tools"
+        ]
+    },
+    {
+        "title": "Botiga Theme Demo",
+        "description": "Démo du thème e-commerce Botiga pour WordPress.",
+        "url": "https://demo.athemes.com/themes/?theme=Botiga",
+        "tags": [
+            "ui",
+            "design"
+        ]
+    },
+    {
+        "title": "Interakt",
+        "description": "Plateforme marketing et CRM tout-en-un.",
+        "url": "https://www.interakt.shop/pricing-us/",
+        "tags": [
+            "freelance",
+            "business",
+            "tools"
+        ]
+    },
+    {
+        "title": "Respecte Mes Datas",
+        "description": "Sensibilisation à la protection des données personnelles et au RGPD.",
+        "url": "https://respectemesdatas.fr/",
+        "tags": [
+            "zen",
+            "tools",
+            "learning"
+        ]
+    },
+    {
+        "title": "MonIdenum",
+        "description": "Identité numérique française permettant de sécuriser l'accès à des services en ligne.",
+        "url": "https://monidenum.fr/",
+        "tags": [
+            "learning",
+            "tools",
+            "freelance"
+        ]
+    },
+    {
+        "title": "Insurte",
+        "description": "Plateforme française proposant de l'assurance adaptée aux freelances.",
+        "url": "https://insurte.com/fr",
+        "tags": [
+            "freelance",
+            "business"
+        ]
+    },
+    {
+        "title": "HP Smart",
+        "description": "Application de gestion d'imprimante HP en ligne.",
+        "url": "https://www.hpsmart.com/fr/fr/ucde",
+        "tags": [
+            "tools",
+            "utilities"
+        ]
+    },
+    {
+        "title": "ShortlyAI",
+        "description": "Outil d'écriture assistée par IA pour rédiger rapidement des contenus.",
+        "url": "https://www.shortlyai.com/",
+        "tags": [
+            "ai",
+            "productivity"
+        ]
+    },
+    {
+        "title": "Future Tools",
+        "description": "Répertoire de centaines d'outils IA pour divers cas d'usage.",
+        "url": "https://www.futuretools.io/",
+        "tags": [
+            "ai",
+            "tools",
+            "utilities"
+        ]
+    },
+    {
+        "title": "Tome",
+        "description": "IA pour créer des présentations visuelles à partir d'un prompt.",
+        "url": "https://tome.app/",
+        "tags": [
+            "ai",
+            "tools",
+            "design"
+        ]
+    },
+    {
+        "title": "Watermark Remover",
+        "description": "Outil IA pour supprimer automatiquement les filigranes d'images.",
+        "url": "https://www.watermarkremover.io/fr",
+        "tags": [
+            "ai",
+            "utilities"
+        ]
+    },
+    {
+        "title": "HappyScribe",
+        "description": "Transcription automatique et sous-titrage de fichiers audio/vidéo.",
+        "url": "https://www.happyscribe.com/fr",
+        "tags": [
+            "ai",
+            "tools",
+            "productivity"
+        ]
+    },
+    {
+        "title": "Whisper (OpenAI)",
+        "description": "Modèle de transcription automatique open source d'OpenAI.",
+        "url": "https://openai.com/index/whisper/",
+        "tags": [
+            "ai",
+            "tools"
+        ]
+    },
+    {
+        "title": "GPTGo",
+        "description": "Moteur de recherche combiné à ChatGPT pour des réponses instantanées.",
+        "url": "https://gptgo.ai/fr",
+        "tags": [
+            "ai",
+            "tools",
+            "utilities"
+        ]
+    },
+    {
+        "title": "Magic Studio",
+        "description": "Suite d'outils créatifs basés sur l'IA pour supprimer des objets, générer des images, etc.",
+        "url": "https://magicstudio.com/fr/",
+        "tags": [
+            "ai",
+            "design",
+            "utilities"
+        ]
+    },
+    {
+        "title": "Stockimg AI",
+        "description": "Générateur d'images d'illustration à partir de texte grâce à l'intelligence artificielle.",
+        "url": "https://stockimg.ai/",
+        "tags": [
+            "ai",
+            "design"
+        ]
+    },
+    {
+        "title": "Jasper AI",
+        "description": "Plateforme d'écriture assistée par IA pour le marketing et les blogs.",
+        "url": "https://www.jasper.ai/",
+        "tags": [
+            "ai",
+            "productivity",
+            "business"
+        ]
+    },
+    {
+        "title": "ManyChat",
+        "description": "Automatisation de messages via chatbot sur Messenger, WhatsApp, et Instagram.",
+        "url": "https://manychat.com/",
+        "tags": [
+            "tools",
+            "business",
+            "productivity"
+        ]
+    },
+    {
+        "title": "PimEyes",
+        "description": "Moteur de recherche biométrique par reconnaissance faciale.",
+        "url": "https://pimeyes.com/en",
+        "tags": [
+            "ai",
+            "tools",
+            "utilities"
+        ]
+    },
+    {
+        "title": "Designstripe",
+        "description": "Illustrations personnalisables et scènes vectorielles pour vos projets.",
+        "url": "https://designstripe.com/",
+        "tags": [
+            "design",
+            "ui",
+            "ux",
+            "tools"
+        ]
+    },
+    {
+        "title": "MyNoise",
+        "description": "Générateur de sons ambiants pour la concentration ou la relaxation.",
+        "url": "https://mynoise.net/",
+        "tags": [
+            "zen",
+            "focus",
+            "productivity"
+        ]
+    },
+    {
+        "title": "NTS Live",
+        "description": "Radio en ligne avec musique éclectique pour le travail ou la détente.",
+        "url": "https://www.nts.live/radio",
+        "tags": [
+            "zen",
+            "focus"
+        ]
+    },
+    {
+        "title": "Handcrafts (undraw)",
+        "description": "Outil de création d'illustrations vectorielles personnalisables.",
+        "url": "https://handcrafts.undraw.co/app",
+        "tags": [
+            "ui",
+            "ux",
+            "design",
+            "tools"
+        ]
+    },
+    {
+        "title": "Undraw Illustrations",
+        "description": "Bibliothèque open source d'illustrations vectorielles gratuites.",
+        "url": "https://undraw.co/illustrations",
+        "tags": [
+            "ui",
+            "ux",
+            "design"
+        ]
+    }
+]

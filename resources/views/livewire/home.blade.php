@@ -65,6 +65,10 @@
                 <x-cards.card title="{{ $bookmark->title }}" url="{{ $bookmark->url }}"
                     description="{{ $bookmark->description }}" />
             @endforeach
+
+            <div class="col-span-full" style="border: 2px dashed blue">
+                {{ $bookmarks->links() }}
+            </div>
         </div>
     </div>
 </div>

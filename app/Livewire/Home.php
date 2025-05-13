@@ -6,9 +6,12 @@ use Livewire\Component;
 use App\Services\UrlEnricher;
 use App\Models\Bookmark;
 use App\Models\Tag;
+use Livewire\WithPagination;
 
 class Home extends Component
 {
+    use WithPagination;
+
     public $search = '';
 
     public $selectedTags = [];
