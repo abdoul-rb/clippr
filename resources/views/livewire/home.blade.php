@@ -66,7 +66,7 @@
                     description="{{ $bookmark->description }}" />
             @endforeach
 
-            <div class="col-span-full" style="border: 2px dashed blue">
+            <div class="col-span-full">
                 {{ $bookmarks->links() }}
             </div>
         </div>

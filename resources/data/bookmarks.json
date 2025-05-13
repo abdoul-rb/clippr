@@ -120,7 +120,7 @@
         "title": "IA Learn",
         "description": "Application d'apprentissage en ligne basée sur l'IA.",
         "url": "https://ialearn.vercel.app/",
-        "relevance": 8,
+        "relevance": 5,
         "tags": [
             "ai",
             "learning",
@@ -162,6 +162,7 @@
         "title": "Preline UI",
         "description": "Free Tailwind CSS resources as building blocks for websites and web applications.",
         "url": "https://preline.co/examples.html",
+        "relevance": 8,
         "tags": [
             "tailwind",
             "ui",
@@ -172,6 +173,7 @@
         "title": "Cruip Devspace demo",
         "description": "Exemple de portfolio avec Tailwind CSS",
         "url": "https://preview.cruip.com/devspace/",
+        "relevance": 5,
         "tags": [
             "ui",
             "portfolio"
@@ -181,6 +183,7 @@
         "title": "Tailawesome",
         "description": "Composants gratuits Tailwind CSS open source.",
         "url": "https://www.tailawesome.com/",
+        "relevance": 8,
         "tags": [
             "tailwind",
             "components",
@@ -191,6 +194,7 @@
         "title": "Float UI",
         "description": "Composants Tailwind CSS élégants pour vos projets.",
         "url": "https://floatui.com/",
+        "relevance": 8,
         "tags": [
             "tailwind",
             "ui",
@@ -201,6 +205,7 @@
         "title": "Flowbase",
         "description": "Templates et ressources Webflow premium.",
         "url": "https://www.flowbase.co/",
+        "relevance": 7,
         "tags": [
             "ui",
             "ux",
@@ -211,6 +216,7 @@
         "title": "Material Tailwind Blocks",
         "description": "Blocs prédéfinis basés sur Material Tailwind.",
         "url": "https://www.material-tailwind.com/blocks",
+        "relevance": 8,
         "tags": [
             "tailwind",
             "components",
@@ -223,7 +229,7 @@
         "url": "https://tailwindcss.com/plus",
         "tags": [
             "tailwind",
-            "tools",
+            "components",
             "utilities"
         ]
     },
@@ -231,6 +237,7 @@
         "title": "Flowbite",
         "description": "Composants UI avec Tailwind CSS et JavaScript.",
         "url": "https://flowbite.com/",
+        "relevance": 8,
         "tags": [
             "tailwind",
             "components",
@@ -251,6 +258,7 @@
         "title": "Tailgrids",
         "description": "Bibliothèque de composants UI Tailwind CSS.",
         "url": "https://tailgrids.com",
+        "relevance": 8,
         "tags": [
             "tailwind",
             "components",
@@ -261,6 +269,7 @@
         "title": "Tailblocks",
         "description": "Blocs prédéfinis pour Tailwind CSS.",
         "url": "https://tailblocks.cc/",
+        "relevance": 8,
         "tags": [
             "tailwind",
             "components",
@@ -271,6 +280,7 @@
         "title": "Heroicons",
         "description": "Icônes SVG gratuites conçues pour les projets Tailwind CSS.",
         "url": "https://heroicons.com/",
+        "relevance": 7,
         "tags": [
             "ui",
             "ux",
@@ -282,6 +292,7 @@
         "title": "Feather Icons",
         "description": "Collection d'icônes open source simples et élégantes.",
         "url": "https://feathericons.com/",
+        "relevance": 7,
         "tags": [
             "ui",
             "design",
@@ -292,6 +303,7 @@
         "title": "Remix Icon",
         "description": "Bibliothèque d'icônes système au design moderne et personnalisable.",
         "url": "https://remixicon.com/",
+        "relevance": 7,
         "tags": [
             "ui",
             "ux",
@@ -302,6 +314,7 @@
         "title": "Pqoqubbw Icons",
         "description": "Icônes en SVG personnalisables pour le web moderne.",
         "url": "https://icons.pqoqubbw.dev",
+        "relevance": 7,
         "tags": [
             "ui",
             "design",
@@ -312,6 +325,7 @@
         "title": "Easing Wizard",
         "description": "Outil pour visualiser et créer des courbes d'animation CSS personnalisées.",
         "url": "https://easingwizard.com",
+        "relevance": 7,
         "tags": [
             "ui",
             "ux",
@@ -332,6 +346,7 @@
         "title": "Dark Mode Design",
         "description": "Collection d'inspirations pour interfaces en mode sombre.",
         "url": "https://www.darkmodedesign.com/",
+        "relevance": 7,
         "tags": [
             "ui",
             "ux",
@@ -342,6 +357,7 @@
         "title": "Pagedone",
         "description": "Documentation de composants Tailwind CSS UI prêts à l'emploi.",
         "url": "https://pagedone.io/docs/",
+        "relevance": 8,
         "tags": [
             "tailwind",
             "components",
@@ -352,6 +368,7 @@
         "title": "Material Tailwind",
         "description": "Composants UI construits avec Tailwind CSS et Material Design.",
         "url": "https://www.material-tailwind.com/",
+        "relevance": 8,
         "tags": [
             "tailwind",
             "components",
@@ -362,6 +379,7 @@
         "title": "Penguin UI",
         "description": "UI kit Tailwind CSS gratuit avec des composants modernes.",
         "url": "https://www.penguinui.com/",
+        "relevance": 8,
         "tags": [
             "tailwind",
             "ui",
@@ -372,6 +390,7 @@
         "title": "DevDojo Pines",
         "description": "Collection de composants Alpine.js et Tailwind CSS.",
         "url": "https://devdojo.com/pines",
+        "relevance": 8,
         "tags": [
             "tailwind",
             "components",
@@ -382,6 +401,7 @@
         "title": "DaisyUI",
         "description": "Plugin Tailwind CSS qui ajoute des composants UI avec thèmes.",
         "url": "https://daisyui.com/components/",
+        "relevance": 8,
         "tags": [
             "tailwind",
             "ui",
@@ -392,6 +412,7 @@
         "title": "ShadCN UI",
         "description": "Composants réutilisables basés sur Radix UI et Tailwind CSS.",
         "url": "https://ui.shadcn.com/",
+        "relevance": 8,
         "tags": [
             "tailwind",
             "components",
@@ -402,6 +423,7 @@
         "title": "Naive UI",
         "description": "Framework de composants Vue 3 avec design élégant.",
         "url": "https://www.naiveui.com/en-US/dark",
+        "relevance": 5,
         "tags": [
             "components",
             "ui",
@@ -412,6 +434,7 @@
         "title": "Shuffle Dev",
         "description": "Constructeur de templates avec Bootstrap, Tailwind, Bulma.",
         "url": "https://shuffle.dev/components",
+        "relevance": 5,
         "tags": [
             "tailwind",
             "components",
@@ -423,6 +446,7 @@
         "title": "Clippy",
         "description": "Générateur CSS de formes avec clip-path.",
         "url": "https://bennettfeely.com/clippy/",
+        "relevance": 5,
         "tags": [
             "ui",
             "ux",
@@ -443,6 +467,7 @@
         "title": "Devicon",
         "description": "Icônes des technologies de développement (HTML, CSS, JS, etc.).",
         "url": "https://devicon.dev/",
+        "relevance": 5,
         "tags": [
             "ui",
             "ux",
@@ -453,6 +478,7 @@
         "title": "Motion Zajno",
         "description": "Inspiration en animation UI/UX pour produits digitaux.",
         "url": "https://motion.zajno.com/",
+        "relevance": 7,
         "tags": [
             "ui",
             "ux",
@@ -463,6 +489,7 @@
         "title": "Mobbin",
         "description": "Collection d'interfaces mobiles réelles pour l'inspiration UI/UX.",
         "url": "https://mobbin.com/",
+        "relevance": 7,
         "tags": [
             "ui",
             "ux",
@@ -473,6 +500,7 @@
         "title": "SaaS Landing Page",
         "description": "Exemples de pages d'accueil efficaces pour produits SaaS.",
         "url": "https://saaslandingpage.com/",
+        "relevance": 7,
         "tags": [
             "ui",
             "ux",
@@ -484,6 +512,7 @@
         "title": "The App Fuel",
         "description": "Collection de designs UI pour applications mobiles.",
         "url": "https://www.theappfuel.com/",
+        "relevance": 7,
         "tags": [
             "ui",
             "ux",
@@ -494,6 +523,7 @@
         "title": "Muzli",
         "description": "Inspirations UI/UX et ressources design à jour.",
         "url": "https://muz.li/fr/",
+        "relevance": 7,
         "tags": [
             "ui",
             "ux",
@@ -504,6 +534,7 @@
         "title": "Icônes JS",
         "description": "Projet open-source pour explorer des jeux d'icônes SVG modernes.",
         "url": "https://icones.js.org/",
+        "relevance": 7,
         "tags": [
             "ui",
             "ux",
@@ -514,6 +545,7 @@
         "title": "Looka",
         "description": "Création de logos et branding assistée par IA.",
         "url": "https://looka.com/",
+        "relevance": 5,
         "tags": [
             "design",
             "ai",
@@ -525,6 +557,7 @@
         "title": "CSS.gg",
         "description": "Bibliothèque d'icônes CSS/SVG personnalisables.",
         "url": "https://css.gg/icons",
+        "relevance": 7,
         "tags": [
             "ui",
             "ux",
@@ -535,6 +568,7 @@
         "title": "Nucleo App",
         "description": "Gestionnaire d'icônes pour designers et développeurs.",
         "url": "https://nucleoapp.com/",
+        "relevance": 7,
         "tags": [
             "ui",
             "ux",
@@ -594,6 +628,7 @@
         "title": "Pitch Deck Hunt",
         "description": "Collection de pitch decks de startups pour s'inspirer.",
         "url": "https://www.pitchdeckhunt.com/",
+        "relevance": 4,
         "tags": [
             "business",
             "learning",
@@ -624,6 +659,7 @@
         "title": "Article Summary",
         "description": "Générateur de résumé d'article propulsé par l'IA.",
         "url": "https://article-summary.vercel.app/generate",
+        "relevance": 5,
         "tags": [
             "ai",
             "learning",
@@ -643,6 +679,7 @@
         "title": "Academy by Brevo",
         "description": "Formations gratuites sur l'email marketing, CRM et automation.",
         "url": "https://academy.brevo.com/courses-fr",
+        "relevance": 4,
         "tags": [
             "business",
             "learning",
@@ -684,6 +721,7 @@
         "title": "Pitch Deck Hunt",
         "description": "Base de données de pitch decks utilisés par des startups pour lever des fonds.",
         "url": "https://www.pitchdeckhunt.com/",
+        "relevance": 4,
         "tags": [
             "business",
             "learning",
@@ -714,6 +752,7 @@
         "title": "Article Summary",
         "description": "Application qui utilise l'IA pour générer un résumé d'article.",
         "url": "https://article-summary.vercel.app/generate",
+        "relevance": 5,
         "tags": [
             "ai",
             "learning",
@@ -724,6 +763,7 @@
         "title": "Webflow Collections Overview",
         "description": "Documentation sur la gestion des collections CMS dans Webflow.",
         "url": "https://help.webflow.com/hc/en-us/articles/33961244391059-Collections-overview",
+        "relevance": 5,
         "tags": [
             "docs",
             "ux",
@@ -753,6 +793,7 @@
         "title": "AOS - Animate on Scroll",
         "description": "Librairie d'animations au scroll pour les interfaces web.",
         "url": "https://michalsnik.github.io/aos/",
+        "relevance": 5,
         "tags": [
             "ui",
             "ux",
@@ -763,6 +804,7 @@
         "title": "Build UI",
         "description": "Formation payante avec des vidéos avancées sur la création d'interfaces web.",
         "url": "https://buildui.com/",
+        "relevance": 5,
         "tags": [
             "ui",
             "ux",
@@ -924,6 +966,7 @@
         "title": "MonIdenum",
         "description": "Identité numérique française permettant de sécuriser l'accès à des services en ligne.",
         "url": "https://monidenum.fr/",
+        "relevance": 4,
         "tags": [
             "learning",
             "tools",
@@ -934,6 +977,7 @@
         "title": "Insurte",
         "description": "Plateforme française proposant de l'assurance adaptée aux freelances.",
         "url": "https://insurte.com/fr",
+        "relevance": 4,
         "tags": [
             "freelance",
             "business"
@@ -952,6 +996,7 @@
         "title": "ShortlyAI",
         "description": "Outil d'écriture assistée par IA pour rédiger rapidement des contenus.",
         "url": "https://www.shortlyai.com/",
+        "relevance": 5,
         "tags": [
             "ai",
             "productivity"
@@ -961,6 +1006,7 @@
         "title": "Future Tools",
         "description": "Répertoire de centaines d'outils IA pour divers cas d'usage.",
         "url": "https://www.futuretools.io/",
+        "relevance": 5,
         "tags": [
             "ai",
             "tools",
@@ -971,6 +1017,7 @@
         "title": "Tome",
         "description": "IA pour créer des présentations visuelles à partir d'un prompt.",
         "url": "https://tome.app/",
+        "relevance": 5,
         "tags": [
             "ai",
             "tools",
@@ -981,6 +1028,7 @@
         "title": "Watermark Remover",
         "description": "Outil IA pour supprimer automatiquement les filigranes d'images.",
         "url": "https://www.watermarkremover.io/fr",
+        "relevance": 5,
         "tags": [
             "ai",
             "utilities"
@@ -990,6 +1038,7 @@
         "title": "HappyScribe",
         "description": "Transcription automatique et sous-titrage de fichiers audio/vidéo.",
         "url": "https://www.happyscribe.com/fr",
+        "relevance": 5,
         "tags": [
             "ai",
             "tools",
@@ -1000,6 +1049,7 @@
         "title": "Whisper (OpenAI)",
         "description": "Modèle de transcription automatique open source d'OpenAI.",
         "url": "https://openai.com/index/whisper/",
+        "relevance": 5,
         "tags": [
             "ai",
             "tools"
@@ -1009,6 +1059,7 @@
         "title": "GPTGo",
         "description": "Moteur de recherche combiné à ChatGPT pour des réponses instantanées.",
         "url": "https://gptgo.ai/fr",
+        "relevance": 5,
         "tags": [
             "ai",
             "tools",
@@ -1019,6 +1070,7 @@
         "title": "Magic Studio",
         "description": "Suite d'outils créatifs basés sur l'IA pour supprimer des objets, générer des images, etc.",
         "url": "https://magicstudio.com/fr/",
+        "relevance": 5,
         "tags": [
             "ai",
             "design",
@@ -1029,6 +1081,7 @@
         "title": "Stockimg AI",
         "description": "Générateur d'images d'illustration à partir de texte grâce à l'intelligence artificielle.",
         "url": "https://stockimg.ai/",
+        "relevance": 5,
         "tags": [
             "ai",
             "design"
@@ -1038,6 +1091,7 @@
         "title": "Jasper AI",
         "description": "Plateforme d'écriture assistée par IA pour le marketing et les blogs.",
         "url": "https://www.jasper.ai/",
+        "relevance": 5,
         "tags": [
             "ai",
             "productivity",
@@ -1058,6 +1112,7 @@
         "title": "PimEyes",
         "description": "Moteur de recherche biométrique par reconnaissance faciale.",
         "url": "https://pimeyes.com/en",
+        "relevance": 5,
         "tags": [
             "ai",
             "tools",
@@ -1068,6 +1123,7 @@
         "title": "Designstripe",
         "description": "Illustrations personnalisables et scènes vectorielles pour vos projets.",
         "url": "https://designstripe.com/",
+        "relevance": 7,
         "tags": [
             "design",
             "ui",
@@ -1098,6 +1154,7 @@
         "title": "Handcrafts (undraw)",
         "description": "Outil de création d'illustrations vectorielles personnalisables.",
         "url": "https://handcrafts.undraw.co/app",
+        "relevance": 7,
         "tags": [
             "ui",
             "ux",
@@ -1109,6 +1166,7 @@
         "title": "Undraw Illustrations",
         "description": "Bibliothèque open source d'illustrations vectorielles gratuites.",
         "url": "https://undraw.co/illustrations",
+        "relevance": 7,
         "tags": [
             "ui",
             "ux",

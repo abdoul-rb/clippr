@@ -27,8 +27,6 @@ class Home extends Component
 
     public function render(UrlEnricher $enricher)
     {
-        $data = $enricher->enrich('https://preline.co/');
-
         $query = Bookmark::query();
 
         if ($this->search) {
@@ -42,7 +40,7 @@ class Home extends Component
             });
         }
 
-        $bookmarks = $query->paginate(10);
+        $bookmarks = $query->paginate(12);
 
         $tags = Tag::take(6)->get();
 
