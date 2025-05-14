@@ -27,7 +27,7 @@ class Home extends Component
 
     public function render(UrlEnricher $enricher)
     {
-        $query = Bookmark::query();
+        $query = Bookmark::query()->orderBy('relevance', 'desc');
 
         if ($this->search) {
             $query->where('title', 'like', '%' . $this->search . '%')
@@ -42,7 +42,7 @@ class Home extends Component
 
         $bookmarks = $query->paginate(12);
 
-        $tags = Tag::take(6)->get();
+        $tags = Tag::get();
 
         return view('livewire.home', compact('bookmarks', 'tags'))->extends('layouts.app');
     }
